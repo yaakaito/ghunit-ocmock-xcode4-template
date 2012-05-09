@@ -1,13 +1,13 @@
 == Xcode 4 GHUnit & OCMock Templates
 
-These templates provide a ready to execute GHUnit Test bundle with (or without) OCMock included in your unit tests.
+These templates provide a ready to execute GHUnit Test bundle with (or without) OCMock and NLTHTTPStubServer included in your unit tests.
 
 The templates provided are for both OSX and iOS platforms.
 
 Included versions:
 * GHUnit v0.4.33  https://github.com/gabriel/gh-unit
 * OCMock v1.77   http://ocmock.org/
-
+* NLTHTTPStubServer v0.1.1   https://github.com/yaakaito/NLTHTTPStubServer
 
 === Requirements
 

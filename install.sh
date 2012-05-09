@@ -1,4 +1,4 @@
-#!/bin/bash
+#/bin/bash
 
 # GHUnit/OCMock Xcode 4 Template Install Script
 # 
@@ -19,7 +19,7 @@ usage(){
 cat << EOF
 usage: $0 [options]
  
-Install / update templates for GHUnit/OCMock Xcode 4 Templates
+Install / update templates for GHUnit/OCMock Xcode 6 Templates
  
 OPTIONS:
    -f	force overwrite if directories exist
